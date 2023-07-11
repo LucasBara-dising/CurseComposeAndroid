@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Limonade</string>
+    <string name="textLimonadeTree">Click na limoeira</string>
+    <string name="textLimon">Click varias vezes no limão</string>
+    <string name="textDrink">Beba Sua limonada!</string>
+    <string name="textReset">Clica para voltar o ciclo</string>
+
+    <string name="limonadeTree">limonade Tree</string>
+    <string name="limon">Limon</string>
+    <string name="limonade_drink">Limonade drink</string>
+    <string name="limonadeDrinkEmpty">Limonade drink empty</string>
+</resources>
