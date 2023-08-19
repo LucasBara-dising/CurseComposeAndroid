@@ -33,8 +33,6 @@ import com.example.listsuperheros.model.HeroesRepository
 import com.example.listsuperheros.ui.theme.ListSuperHerosTheme
 
 class HeroesDataSource {
-
-
     @Composable
     fun ItemHero(
         hero: Hero,
